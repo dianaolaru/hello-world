@@ -1,3 +1,3 @@
 # hello-world
-test
 first commit
+second commit
